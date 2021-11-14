@@ -5,3 +5,7 @@
 ### Day 0:
 
 - Hello world and Type conversions
+
+### Day 1:
+
+- Perimeter, Area, Factorial and Const PI
