@@ -9,3 +9,7 @@
 ### Day 1:
 
 - Perimeter, Area, Factorial and Const PI
+
+### Day 2:
+
+- if-else, switch-case and loops
