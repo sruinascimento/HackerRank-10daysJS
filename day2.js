@@ -1,5 +1,3 @@
-/*
-
 function grade(score) {
 	if (score < 0 || score > 30) return false;
 	if (score <= 5) return 'A';
@@ -65,8 +63,8 @@ function getLetter(s) {
 }
 
 console.log(getLetter("adfgt"))
-*/
-// =======
+
+// ======================================================
 /*
 function isVowel(s) {
 	return 'aeiou'.indexOf(s) != -1;
