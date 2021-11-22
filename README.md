@@ -13,3 +13,7 @@
 ### Day 2:
 
 - if-else, switch-case and loops
+
+### Day 3:
+
+- try, catch, finally and throw
