@@ -17,3 +17,7 @@
 ### Day 3:
 
 - try, catch, finally and throw
+
+### Day 4:
+
+- Object, object count with forEach
