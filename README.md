@@ -20,4 +20,4 @@
 
 ### Day 4:
 
-- Object, object count with forEach
+- Object, object count with forEach, class and method
